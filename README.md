@@ -17,4 +17,5 @@ Run worker and newTask
 ➜ go run main.go
 ```
 
+https://github.com/vit0rr/PubSubMq/assets/70543018/a59bf885-d1b6-4b0f-835f-85338cbd1c65
 
